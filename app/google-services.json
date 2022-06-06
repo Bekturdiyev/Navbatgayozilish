@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208607309468",
+    "project_id": "buyurtma-1-2",
+    "storage_bucket": "buyurtma-1-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208607309468:android:b888e3af136565bce64759",
+        "android_client_info": {
+          "package_name": "uz.noll.buyurtma_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208607309468-qmi3nv2eiu7k30dih6cjvqi38h6l1cic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.noll.buyurtma_12",
+            "certificate_hash": "c8d3921d5d82d0aa63d22c29b51964a09a4dbb3a"
+          }
+        },
+        {
+          "client_id": "208607309468-nc18lv3e6f3e86fljtufrqq3evghlf1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnh3k-zQbV-DjuoCpXU58ge6DG4-JnoRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208607309468-nc18lv3e6f3e86fljtufrqq3evghlf1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
